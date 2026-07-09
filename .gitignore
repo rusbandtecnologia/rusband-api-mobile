@@ -1,0 +1,6 @@
+bin/
+tmp/
+.air/
+.env
+.vscode/
+.DS_Store
